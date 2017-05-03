@@ -1,0 +1,313 @@
+#+Title: Detailed script on functionality of labs 
+#+Date: 02 May 2017
+#+Author: Integration Team
+
+* Introduction
+
+This document gives the Step wise implementation guidance for the labs
+which are selected for the workshop at Solan
+
+** List of labs:
+
+** [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE11%2BAnytime/courseware/3796974a55d848dfbbe2b463e9c1ff27/f3a180e08d854759aa44f858f1c9c550/][Computer Organisation]] from IIIT H - Computer Science Engineering
+
+*** List of Experiments:
+
+    + [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE11%2BAnytime/courseware/92de74ecdf8e4e59b7b0ce9e618436d6/363771fa771048d9817c02d8211b4ba6/][Representation of Integers and their Arithmetic]] 
+
+**** Objective: 
+     To learn about representation of signed and unsigned integers.
+**** Steps to Perform the Experiment:
+
+     Step 1-  Select any two rows that you want to add and press the ADD button .
+
+     Step 2- The  result will be highlighted as well as displayed in the results table.
+
+     OVERFLOW- If the resultant of the two numbers cannot be represented in given number of "bits" , then it is an overflow  which is indicated by the overflow flags.( The actual values requiring higher number of bits will be displayed in the result table for reference)
+
+     Step 3- Press reset button for adding new set of numbers.
+
+    + [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE11%2BAnytime/courseware/27f53b9f804642dcbdc7063f9f701151/190a8385076042aeae1c42359e3ea5b1/][Floating Point Numbers Representation]]
+
+**** Objective:
+
+     To understand the concepts of Floating Point Numbers and their
+     conversion to and from decimal form.
+
+**** Steps to perform the Experiment: 
+
+Decimal  to 8 bit Binary Floating point:
+     Step 1 Enter the decimal number to be converted.
+     Step 2 Then enter the number of exponent bits in range(1,6)
+     Step 3 Click on submit button to get the results.
+     Step 4 Click Reset to clear and re enter the values. 
+Decimal  to 8 bit Binary Floating point:
+     Step 1 Enter the decimal number to be converted.
+     Step 2 Then table shows all the numbers that can be accurately
+     represented. 
+     Step 3 Click on submit to get the representation. 
+     Step 4 If the number is not accurately re-presentable, it is
+     rounded off.
+
+    + [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/ee3c0a9ce6634e2db06ce6d9f3b79045/6929f432f6bd43818962cc9cd6d3e1d2/][Virtual Memory]]  
+
+**** Objective:
+     To understand page table organizations and page replacement policies.
+
+**** Steps to perform the Experiment:
+     
+     1. Have to download the experiment and then perform.
+
+** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/5b135806d3de4db1a80304f603ad13b7/dfeb6bd87fd044e8aa4c1c07b2ddfc62/][Pattern Recognition]] from IIIT H - Computer Science Engineering
+
+*** List of Experiments:
+
+    + [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/560738b4102b4fecbadc0b8c3f208637/e6b3c77f15e74097857fccfffe301594/][Linear Perceptron]]
+
+**** Objective:
+
+     To understand Perceptron algorithm.
+
+**** Steps to perform the Experiment:
+
+     1. Click on the link given in the experiment section according to
+        your OS.
+     2. Select the Data set from the drop down menu.
+     3. Click on load button.
+     4. Once the table is appeared on the screen, Click on Plot
+        button. 
+     5. A graph will be given with the values. 
+     6. You can observe the changes in the graph by selecting
+        different test features. 
+
+     + [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/af21963abccc491daac22a24908df6da/248d50029d494639adf2df5c5cbb06fe/][Bayesian Classification]]
+
+**** Objective:
+     
+     To understand Likelihood of a class, density/distribution
+     functions, Prior Probability, Density Function
+
+**** Steps to perform the Experiment:
+
+    
+Stage 1:
+
+    1. Launch the experiment and clear the pane. Assign different means and covariances for each of the classes and observe the resulting densities. Use the mark-all button to observe the decision boundaries.
+    2. Note down your observations on the relationship between the decision boundaries and the density functions.
+
+Stage 2:
+
+    1. Repeat the above procedure for different values of prior probabilities.
+    2. Observe the change in the scaled density functions and decision boundaries
+    3. Note down your observations regarding the change of decision boundaries
+
+Stage 3:
+
+Generate the following types of decision boundaries by varying the means and covariance matrices.
+
+    1. Straight line
+    2. Parallel Straight lines
+    3. Concentric circles
+    4. Parabola
+    5. Hyperbola
+    6. Four Quadrants
+
+Explain why these shapes are generated in each case.
+
+
+     + [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/c7bc65bcca5b49308890d9a09c81bcb8/fd961fefc2e84d7a8086e6251f09ca1f/][Data Clustering - KMeans]]
+
+**** Objective:
+
+     To understad Clustering and the difference between KMeans and
+     MST.
+
+**** Steps to perform the Experiment:
+
+In the experiment window,
+
+    1. Select the clustering method on the top right.
+    2. To plot data points and means on the graph - load custom datasets or mark manually or randomly generate using the options in the side pane
+    3. 'Start' will begin the clustering process.
+    4. 'Run' will run one iteration of the clustering process. (Applicable for K-means method)
+    5. 'Finish' will complete the clustering process to reach an
+       optimal solution. (Applicable for K-means method)
+
+** [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE14%2BAnytime/courseware/4d7da6b5aeb145d4a784ff1373f20467/a4ad962494a94298b2e96917eb1c3ab1/][VLSI]] From IIIT H - Computer Science Engineering / Electronics and Communications Engineering
+
+*** List of Experiments:
+
+    + [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/6360dfd1f63944c6a899c33585faea26/6edacf7d42ed46e083ad2aea4fa9c36a/][Schematic Design Of Transistor Level Inverter]]
+
+**** Objective:
+
+     To design transistor level schematic of an Inverter using Complementary CMOS and Pseudo NMOS logic.
+     To find the effect of load capacitance on the rise time and fall time and hence delay of output waveform.
+     To find the effect of W/L of transistors on the output waveform.
+
+**** Steps to perform the Experiment:
+
+     1. 
+
+** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+ECE19+Anytime/courseware/792e675b532849ab868edb78034febbc/4f4e6196e0164ef1bd5946408310abf8/][Hybrid Electronics]]  from COPE Electronics and Communications Engineering
+   
+*** List of Experiments:
+
+    + [[https://vlabs.ac.in/courses/course-v1:COE-Pune+ECE19+Anytime/courseware/917cf302ac9d49b1afb586405bd79dba/f54c2a2bfdd2431fa740c3c04a600f4e/][Design and Simulate Various Code Converters]]
+
+**** Objective:
+
+     To Design and Simulate binary to gray , gray to binary , BCD to
+     Excess 3, Excess 3 to BCD code converters.
+
+**** Steps to perform the Experiment:
+
+    1. Select appropriate code converter from tab menu.
+    2. Run / execute the simulation by pressing the run button and observe the output of code converters on the output LED.
+    3. Repeat the procedure for different inputs and note down the corresponding outputs.
+
+** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/a0031fb6b4c24f9d88f57becfee20487/b48a39f258e445e4b9679ba0c45a9f57/][Fluid Mechanics]] from NITK - Civil Engineering
+
+*** List of Experiments:
+
+    + [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/9a75ced1d1f3490d9930ff5472e49eee/2256756499174a959f3c8199722d2005/][Calibration of V-Notch]]
+
+**** Objective:
+
+     To determine the coefficient of discharge of V-notch.
+
+**** Steps to perform the Experiment:
+
+     1. Open the Calibration of V-notch experiment and click on the
+        next button shown at the bottom right corner.
+     2. Start the pump by clicking on green button and then click on
+        the next button.
+     3. Click on the inlet valve to rotate it.
+     4. Click on hand to rotate the inlet valve and click on the next
+        button.
+     5. Note the initial reading of the hook gauge and click on the
+        knob.
+     6. Note the head of water, theoretical discharge and click the
+        next button.
+     7. Click on ball valve to close it and allow the water to rise in
+        collecting tank. 
+     8. Note the actual discharge of V-notch from collecting tank and
+        click on the next button.
+     9. Repeat the same procedure, after certain trials, click on the
+        red button to stop the pump and click on the next button.
+     10.Click on the label button to see the graph.
+     11.Click on next button to see the results obtained by the graph.
+     12.Note the results obtained by the graph.	
+
+** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/7defb4e1982b40498b953e8353a0c05b/0410d6d9aa3f448ca334b3ef8ee50d1c/][Strength of materials]] from NITK - Civil Engineering
+
+*** List of Experiments:
+
+**** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/a696bf9f41ba4d33a491186965540c8c/78fd6c64d79947a981fdb6ae11e00211/][Izod Impact Test]]  
+
+***** Objective:
+
+     Impact test signifies toughness of material that is the ability
+     of material to absorb energy during plastic
+     deformation. Toughness takes into account both the strength and
+     ductility of the material. There are two distinct type of
+     toughness mechanism and in this case it is appropriate to
+     consider notch as a very high local stress concentration.
+
+***** Steps to perform the Experiment:
+
+    1. Click on the IZOD Test file, a window will open as shown below.
+    2. Click on the NEXT button to move to the next step.
+    3. Click on HAND LEVER to test for friction loss.
+    4. The value of friction loss will be obtained, then to move to
+       the next step click on NEXT button.
+    5. Here the specimen is placed in the machines anvil.
+    6. Now click on the HAND LEVER to obtain the total energy required
+       for failure.
+    7. The final result will be obtained as follows.
+
+**** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/e5a6c41d0e6d40f7ad72d5a6f69729df/a575c83a62194c46815c10cc974de93f/][Brinell Hardness Test]]    
+
+***** Objective:
+
+     To determine the indentation hardness of,
+
+     1. Mild steel specimen
+     2. 0Cast iron specimen
+     3. Brass specimen
+     4. Aluminum specimen
+
+***** Steps to perform the Experiment:
+
+     1. When you click on a brinell test file, a new window will open
+        as shown below.
+     2. Click on the NEXT button to move to the next step.
+     3. Click on the material to select the required specimens and
+        only after selecting the specimen then click on NEXT button.
+     4. Rotate the HAND WHEEL in clockwise direction till the specimen
+        is in position, after adjusting the specimen in specified
+        position then move to the next step by clicking on NEXT
+        button.
+     5. Now click on the POWER BUTTON to switch on the motor. 
+     6. After that click on HAND LEVER to apply load to a specimen.
+     7. Allow the load to act on the specimen.(for hard ferrous
+        materials 10 to 15 sec, soft non ferrous materials up to 30
+        sec.) 
+     8. Now click on the HAND LEVER to unload the specimen, and then
+        click on NEXT button to see the diameter of the impression.
+     9. Scroll the ADJUST SCREW to measure the diameter of the
+        impression.
+     10.Then after clicking the next button final results will be
+     obtained as shown in tabular column.
+
+** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/42be1bffe2f54903bde69ac685c7039e/aa5d759131bf4abbb443fa945c8323ba/][Biomedical and Signal]] from COEP - Biotechnology
+
+*** List of Experiments:
+
+**** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/9ff4343c5b4e4bd6bdf2a60cb22044d7/0b242f5716624c4c810ec2c63479eb8a/][Defibrillator]]
+  
+***** Objective:
+
+       1. To simulate the Defibrillator output waveform.
+       2. To understand energy levels generated by defibrillator.
+       3. To understand the necessity and applications of defibrillator.
+       4. To understand various controls associated with defibrillator.
+       5. To understand various configurations and types of
+            defibrillator.
+
+***** Steps to perform the Experiment:
+
+      1.Run defibrillator simulator and observe discharging waveform
+      2.Run defibrillator simulator and observe energy delivered by changing voltage
+
+**** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/a0895c624f3f4f6ab6fb68df74218072/dbda2e930db3403a9717929dfae57cc0/][Simulate Haemodialysis Machine]]
+
+***** Objective:
+
+      To simulate overall functionality of Haemodialysis
+      Machine(Artificial Kidney)
+
+***** Steps to perform the Experiment:
+
+      1. Set Blood flow rate in normal given range.
+      2. Set control for ultrafilteration goal and ultra filtereaton rate.
+      3. Set Dialysate flow rate in normal given range.
+      4. Run Virtual Haemodialysis Machine.
+      5. Simulate Blood leak detector.
+      6. Simulate Air bubble detector.
+
+** [[https://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH17+Anytime/courseware/b4534d9799cb4d978a7498f7bdc33205/89afdc9e97ff40c3b06aad42de5df5b7/][Population Ecology I]] 
+
+*** List of experiments
+
+**** Conserving an Endangered Species
+
+***** Objective:
+
+***** Steps to perform the Experiment:
+
+**** Interspecific Competition and Coexistence
+
+***** Objective:
+
+***** Steps to perform the Experiment:
