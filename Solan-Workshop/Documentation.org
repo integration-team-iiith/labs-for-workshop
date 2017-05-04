@@ -10,7 +10,7 @@ which are selected for the workshop at Solan
 * Steps 
 
   1. Open Browser - Firefox
-  2. enter url to open [[open-edx.vlabs.ac.in/][Open-Edx]]  
+  2. enter url to open [[https://open-edx.vlabs.ac.in/][Open-Edx]]  
   3. If new user click on Register button, Enter the following
      details:
      + Email
