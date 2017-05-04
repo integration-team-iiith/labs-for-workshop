@@ -7,27 +7,72 @@
 This document gives the Step wise implementation guidance for the labs
 which are selected for the workshop at Solan
 
+* Steps 
+
+  1. Open Browser - Firefox
+  2. enter url to open [[Y][Open- Edx]]   
+  3. If new user click on Register button, Enter the following
+     details:
+     + Email
+     + Full name
+     + Public User name
+     + Password
+     + Gender
+     + Highest level of Education
+     + Mailing address
+     + Tell us why you're interested in Virtual Labs 
+     + Click on "I agree to the Virtual Labs Terms of Service and
+       Honor Code" Button
+     + Click on "Create your Account" button.
+  4. If an Existing user, click on Sign in option from Login Menu from
+     the header section and enter the following credentials:
+     + Email - vlead-admin@vlabs.ac.in
+     + Password - ;dz>n44%R8+bwT>U[;n  
+
 ** List of labs:
 
-** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/3796974a55d848dfbbe2b463e9c1ff27/f3a180e08d854759aa44f858f1c9c550/][Computer Organization]]
+   Following are the labs and the experiments that are selected for
+   Solan workshop.
+
+** Computer Organization from IIIT H - Computer Science Engineering
+   
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select IIIT Hyderabad from the institute's list.
+   + Select [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/about][Computer Organization]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
 
-**** [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE11%2BAnytime/courseware/92de74ecdf8e4e59b7b0ce9e618436d6/363771fa771048d9817c02d8211b4ba6/][Representation of Integers and their Arithmetic]
+**** [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/92de74ecdf8e4e59b7b0ce9e618436d6/fde8bbbfabdc440a8b420092a7731edf/][Representation of Integers and their Arithmetic]] 
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective: 
+
      To learn about representation of signed and unsigned integers.
+
 ***** Steps to Perform the Experiment:
 
-     Step 1-  Select any two rows that you want to add and press the ADD button .
-
-     Step 2- The  result will be highlighted as well as displayed in the results table.
+     1. Select any two rows that you want to add and press the ADD button .
+     2. The  result will be highlighted as well as displayed in the results table.
 
      OVERFLOW- If the resultant of the two numbers cannot be represented in given number of "bits" , then it is an overflow  which is indicated by the overflow flags.( The actual values requiring higher number of bits will be displayed in the result table for reference)
 
-     Step 3- Press reset button for adding new set of numbers.
+     3. Press reset button for adding new set of numbers.
 
-**** [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE11%2BAnytime/courseware/27f53b9f804642dcbdc7063f9f701151/190a8385076042aeae1c42359e3ea5b1/][Floating Point Numbers Representation]]
+**** [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/27f53b9f804642dcbdc7063f9f701151/b225a5c275724278922015249123b777/][Floating Point Numbers Representation]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
@@ -49,20 +94,43 @@ Decimal  to 8 bit Binary Floating point:
      Step 4 If the number is not accurately re-presentable, it is
      rounded off.
 
-**** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/ee3c0a9ce6634e2db06ce6d9f3b79045/6929f432f6bd43818962cc9cd6d3e1d2/][Virtual Memory]]  
+**** [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/ee3c0a9ce6634e2db06ce6d9f3b79045/8d45e0c9587e40e887d6d127b733806f/][Virtual Memory]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Objective link to view the objective of the experiment.
 
 ***** Objective:
-     To understand page table organizations and page replacement policies.
-
+ 
+      To understand page table organizations and page replacement policies.
+      
 ***** Steps to perform the Experiment:
      
      1. Have to download the experiment and then perform.
 
-** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/5b135806d3de4db1a80304f603ad13b7/dfeb6bd87fd044e8aa4c1c07b2ddfc62/][Pattern Recognition]] from IIIT H - Computer Science Engineering
 
+** Pattern Recognition from IIIT H - Computer Science Engineering
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select IIIT Hyderabad from the institute's list.
+   + Select [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/560738b4102b4fecbadc0b8c3f208637/206019b0034845f795dd5159b8bd8cfc/][Pattern Recognition]]  
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
+   
 *** List of Experiments:
 
+    Following are the labs and the experiments that are selected for Solan workshop.
+
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/560738b4102b4fecbadc0b8c3f208637/e6b3c77f15e74097857fccfffe301594/][Linear Perceptron]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
@@ -82,6 +150,10 @@ Decimal  to 8 bit Binary Floating point:
 
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/af21963abccc491daac22a24908df6da/248d50029d494639adf2df5c5cbb06fe/][Bayesian Classification]]
 
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
+
 ***** Objective:
      
      To understand Likelihood of a class, density/distribution
@@ -89,7 +161,6 @@ Decimal  to 8 bit Binary Floating point:
 
 ***** Steps to perform the Experiment:
 
-    
 Stage 1:
 
     1. Launch the experiment and clear the pane. Assign different means and covariances for each of the classes and observe the resulting densities. Use the mark-all button to observe the decision boundaries.
@@ -117,6 +188,10 @@ Explain why these shapes are generated in each case.
 
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/c7bc65bcca5b49308890d9a09c81bcb8/fd961fefc2e84d7a8086e6251f09ca1f/][Data Clustering - KMeans]]
 
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
+
 ***** Objective:
 
      To understad Clustering and the difference between KMeans and
@@ -133,11 +208,30 @@ In the experiment window,
     5. 'Finish' will complete the clustering process to reach an
        optimal solution. (Applicable for K-means method)
 
-** [[https://vlabs.ac.in/login?next=/courses/course-v1%3AIIIT-Hyderabad%2BCSE14%2BAnytime/courseware/4d7da6b5aeb145d4a784ff1373f20467/a4ad962494a94298b2e96917eb1c3ab1/][VLSI]] From IIIT H - Computer Science Engineering / Electronics and Communications Engineering
+
+** VLSI From IIIT H - Computer Science Engineering / Electronics and Communications Engineering
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select IIIT Hyderabad from the institute's list.
+   + Select [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/4d7da6b5aeb145d4a784ff1373f20467/a4ad962494a94298b2e96917eb1c3ab1/][VLSI]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
 
+ Following are the labs and the experiments that are selected for Solan workshop.
+
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/6360dfd1f63944c6a899c33585faea26/6edacf7d42ed46e083ad2aea4fa9c36a/][Schematic Design Of Transistor Level Inverter]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
+
 
 ***** Objective:
 
@@ -147,13 +241,32 @@ In the experiment window,
 
 ***** Steps to perform the Experiment:
 
-     1. 
+     Please go through the [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/6360dfd1f63944c6a899c33585faea26/42305e6c25d74a9dbc88110d510a2494/][Link]] for the procedure to perform the
+     experiment.   
 
-** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+ECE19+Anytime/courseware/792e675b532849ab868edb78034febbc/4f4e6196e0164ef1bd5946408310abf8/][Hybrid Electronics]]  from COPE Electronics and Communications Engineering
+
+** Hybrid Electronics from COPE Electronics and Communications Engineering
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select COEP from the institute's list.
+   + Select [[https://vlabs.ac.in/courses/course-v1:COE-Pune+ECE19+Anytime/courseware/792e675b532849ab868edb78034febbc/4f4e6196e0164ef1bd5946408310abf8/][Hybrid Electronics]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
    
 *** List of Experiments:
 
+Following are the labs and the experiments that are selected for Solan workshop.
+
 **** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+ECE19+Anytime/courseware/917cf302ac9d49b1afb586405bd79dba/f54c2a2bfdd2431fa740c3c04a600f4e/][Design and Simulate Various Code Converters]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
@@ -166,11 +279,28 @@ In the experiment window,
     2. Run/execute the simulation by pressing the run button and observe the output of code converters on the output LED.
     3. Repeat the procedure for different inputs and note down the corresponding outputs.
 
-** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/a0031fb6b4c24f9d88f57becfee20487/b48a39f258e445e4b9679ba0c45a9f57/][Fluid Mechanics]] from NITK - Civil Engineering
+** Fluid Mechanics from NITK - Civil Engineering
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select NIT Suratkal from the institute's list.
+   + Select [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/a0031fb6b4c24f9d88f57becfee20487/b48a39f258e445e4b9679ba0c45a9f57/][Fluid Mechanics]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
 
+Following are the labs and the experiments that are selected for Solan workshop.
+
 **** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/9a75ced1d1f3490d9930ff5472e49eee/2256756499174a959f3c8199722d2005/][Calibration of V-Notch]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
@@ -203,7 +333,13 @@ In the experiment window,
 
 *** List of Experiments:
 
+ Following are the labs and the experiments that are selected for Solan workshop.
+
 **** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/a696bf9f41ba4d33a491186965540c8c/78fd6c64d79947a981fdb6ae11e00211/][Izod Impact Test]]  
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
@@ -227,6 +363,10 @@ In the experiment window,
     7. The final result will be obtained as follows.
 
 **** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/e5a6c41d0e6d40f7ad72d5a6f69729df/a575c83a62194c46815c10cc974de93f/][Brinell Hardness Test]]    
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
 
 ***** Objective:
 
