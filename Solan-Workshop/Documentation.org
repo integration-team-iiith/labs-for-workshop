@@ -10,7 +10,7 @@ which are selected for the workshop at Solan
 * Steps 
 
   1. Open Browser - Firefox
-  2. enter url to open [[Y][Open- Edx]]   
+  2. enter url to open [[open-edx.vlabs.ac.in/][Open-Edx]]  
   3. If new user click on Register button, Enter the following
      details:
      + Email
@@ -26,6 +26,7 @@ which are selected for the workshop at Solan
      + Click on "Create your Account" button.
   4. If an Existing user, click on Sign in option from Login Menu from
      the header section and enter the following credentials:
+
      + Email - vlead-admin@vlabs.ac.in
      + Password - ;dz>n44%R8+bwT>U[;n  
 
@@ -33,6 +34,7 @@ which are selected for the workshop at Solan
 
    Following are the labs and the experiments that are selected for
    Solan workshop.
+
 
 ** Computer Organization from IIIT H - Computer Science Engineering
    
@@ -45,9 +47,10 @@ which are selected for the workshop at Solan
    + Click on Enroll to go through the course. 
    + Click on View course, If already enrolled.
    + Click on course.
-   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
+
+Following are the experiments selected from this lab.  
 
 **** [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/92de74ecdf8e4e59b7b0ce9e618436d6/fde8bbbfabdc440a8b420092a7731edf/][Representation of Integers and their Arithmetic]] 
 
@@ -81,18 +84,19 @@ which are selected for the workshop at Solan
 
 ***** Steps to perform the Experiment: 
 
-Decimal  to 8 bit Binary Floating point:
-     Step 1 Enter the decimal number to be converted.
-     Step 2 Then enter the number of exponent bits in range(1,6)
-     Step 3 Click on submit button to get the results.
-     Step 4 Click Reset to clear and re enter the values. 
-Decimal  to 8 bit Binary Floating point:
-     Step 1 Enter the decimal number to be converted.
-     Step 2 Then table shows all the numbers that can be accurately
-     represented. 
-     Step 3 Click on submit to get the representation. 
-     Step 4 If the number is not accurately re-presentable, it is
-     rounded off.
+      + Decimal  to 8 bit Binary Floating point:
+
+      1.Enter the decimal number to be converted.
+      2. Then enter the number of exponent bits in range(1,6)
+      3. Click on submit button to get the results.
+      4. Click Reset to clear and re enter the values. 
+
+      + Decimal  to 8 bit Binary Floating point:
+
+      1. Enter the decimal number to be converted.
+      2. Then table shows all the numbers that can be accurately represented. 
+      3. Click on submit to get the representation. 
+      4. If the number is not accurately re-presentable, it is rounded off.
 
 **** [[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/ee3c0a9ce6634e2db06ce6d9f3b79045/8d45e0c9587e40e887d6d127b733806f/][Virtual Memory]]
 
@@ -106,7 +110,8 @@ Decimal  to 8 bit Binary Floating point:
       
 ***** Steps to perform the Experiment:
      
-     1. Have to download the experiment and then perform.
+     1. Have to download the experiment and then perform the
+        experiment from the terminal.
 
 
 ** Pattern Recognition from IIIT H - Computer Science Engineering
@@ -124,7 +129,24 @@ Decimal  to 8 bit Binary Floating point:
    
 *** List of Experiments:
 
-    Following are the labs and the experiments that are selected for Solan workshop.
+    Following are the experiments from this lab .
+   
+    Need to follow the below procedure to perform all the experiments
+    in this lab. As for all the experiments we need to follow the same
+    procedure.  
+ 
+      1. Click on the link given in the experiment section according
+         to your OS.
+      2. This will enable us to download the experiment.	
+      - If the OS is Windows
+	 + The experiment will be downloaded as Exp1.zip
+      - If the OS is Linux 
+	 + The Experiment will be downloaded as Exp1.tar.gz
+      3. Extract the experiment and open in the terminal. 
+      4. Run the following command "java -jar Exp1.jar"
+      5. This will load the experiment. Now we may perform the
+         experiment using terminal by following the steps provided in the "Steps to
+         perform the Experiment" section provided below for every experiment. 
 
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/560738b4102b4fecbadc0b8c3f208637/e6b3c77f15e74097857fccfffe301594/][Linear Perceptron]]
 
@@ -137,16 +159,14 @@ Decimal  to 8 bit Binary Floating point:
      To understand Perceptron algorithm.
 
 ***** Steps to perform the Experiment:
-
-     1. Click on the link given in the experiment section according to
-        your OS.
-     2. Select the Data set from the drop down menu.
-     3. Click on load button.
-     4. Once the table is appeared on the screen, Click on Plot
-        button. 
-     5. A graph will be given with the values. 
-     6. You can observe the changes in the graph by selecting
-        different test features. 
+	 
+      . Select the Data set from the drop down menu.
+      . Click on load button.
+      . Once the table is appeared on the screen, Click on Plot
+       button. 
+      . A graph will be given with the values. 
+      . You can observe the changes in the graph by selecting
+       different test features. 
 
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE20+Anytime/courseware/af21963abccc491daac22a24908df6da/248d50029d494639adf2df5c5cbb06fe/][Bayesian Classification]]
 
@@ -219,12 +239,11 @@ In the experiment window,
    + Select [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/4d7da6b5aeb145d4a784ff1373f20467/a4ad962494a94298b2e96917eb1c3ab1/][VLSI]]
    + Click on Enroll to go through the course. 
    + Click on View course, If already enrolled.
-   + Click on course.
-   + Following are the experiments selected for the Solan Workshop.  
+   + Click on course.  
 
 *** List of Experiments:
 
- Following are the labs and the experiments that are selected for Solan workshop.
+ Following are the experiments that are selected from this lab.
 
 **** [[https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE14+Anytime/courseware/6360dfd1f63944c6a899c33585faea26/6edacf7d42ed46e083ad2aea4fa9c36a/][Schematic Design Of Transistor Level Inverter]]
 
@@ -279,6 +298,7 @@ Following are the labs and the experiments that are selected for Solan workshop.
     2. Run/execute the simulation by pressing the run button and observe the output of code converters on the output LED.
     3. Repeat the procedure for different inputs and note down the corresponding outputs.
 
+
 ** Fluid Mechanics from NITK - Civil Engineering
 
    + Go to Labs menu in the header, select "All Labs(Institute wise)"
@@ -294,7 +314,7 @@ Following are the labs and the experiments that are selected for Solan workshop.
 
 *** List of Experiments:
 
-Following are the labs and the experiments that are selected for Solan workshop.
+ Following are the experiments that are selected from this lab.
 
 **** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL20+Anytime/courseware/9a75ced1d1f3490d9930ff5472e49eee/2256756499174a959f3c8199722d2005/][Calibration of V-Notch]]
 
@@ -329,11 +349,23 @@ Following are the labs and the experiments that are selected for Solan workshop.
      11.Click on next button to see the results obtained by the graph.
      12.Note the results obtained by the graph.	
 
-** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/7defb4e1982b40498b953e8353a0c05b/0410d6d9aa3f448ca334b3ef8ee50d1c/][Strength of materials]] from NITK - Civil Engineering
+
+** Strength of materials from NITK - Civil Engineering
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select NIT Suratkal from the institute's list.
+   + Select  [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/7defb4e1982b40498b953e8353a0c05b/0410d6d9aa3f448ca334b3ef8ee50d1c/][Strength of materials]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
 
- Following are the labs and the experiments that are selected for Solan workshop.
+  Following are the experiments that are selected from this lab.
 
 **** [[https://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/courseware/a696bf9f41ba4d33a491186965540c8c/78fd6c64d79947a981fdb6ae11e00211/][Izod Impact Test]]  
 
@@ -400,19 +432,37 @@ Following are the labs and the experiments that are selected for Solan workshop.
      10.Then after clicking the next button final results will be
      obtained as shown in tabular column.
 
-** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/42be1bffe2f54903bde69ac685c7039e/aa5d759131bf4abbb443fa945c8323ba/][Biomedical and Signal]] from COEP - Biotechnology
+
+** Biomedical and Signal Processing Laboratory from COEP - Biotechnology and Bio-medical Engineering. 
+
+   + Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select COEP from the institute's list.
+   + Select  [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/42be1bffe2f54903bde69ac685c7039e/aa5d759131bf4abbb443fa945c8323ba/][Biomedical and Signal]] 
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   + Following are the experiments selected for the Solan Workshop.  
 
 *** List of Experiments:
 
+ Following are the experiments that are selected from this lab.
+
 **** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/9ff4343c5b4e4bd6bdf2a60cb22044d7/0b242f5716624c4c810ec2c63479eb8a/][Defibrillator]]
+
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
   
 ***** Objective:
 
-       1. To simulate the Defibrillator output waveform.
-       2. To understand energy levels generated by defibrillator.
-       3. To understand the necessity and applications of defibrillator.
-       4. To understand various controls associated with defibrillator.
-       5. To understand various configurations and types of
+      1. To simulate the Defibrillator output waveform.
+      2. To understand energy levels generated by defibrillator.
+      3. To understand the necessity and applications of defibrillator.
+      4. To understand various controls associated with defibrillator.
+      5. To understand various configurations and types of
             defibrillator.
 
 ***** Steps to perform the Experiment:
@@ -422,10 +472,13 @@ Following are the labs and the experiments that are selected for Solan workshop.
 
 **** [[https://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/courseware/a0895c624f3f4f6ab6fb68df74218072/dbda2e930db3403a9717929dfae57cc0/][Simulate Haemodialysis Machine]]
 
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+- Click on the Object link to view the object of the experiment. 
+
 ***** Objective:
 
-      To simulate overall functionality of Haemodialysis
-      Machine(Artificial Kidney)
+      To simulate overall functionality of Haemodialysis Machine(Artificial Kidney)
 
 ***** Steps to perform the Experiment:
 
@@ -436,18 +489,44 @@ Following are the labs and the experiments that are selected for Solan workshop.
       5. Simulate Blood leak detector.
       6. Simulate Air bubble detector.
 
-** [[https://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH17+Anytime/courseware/b4534d9799cb4d978a7498f7bdc33205/89afdc9e97ff40c3b06aad42de5df5b7/][Population Ecology I]] 
+** Population ecology Virtual Lab I from Amrita - Biotechnology and Bio-medical Engineering. 
 
++ Go to Labs menu in the header, select "All Labs(Institute wise)"
+     option.
+   + On click "All Labs(Institute wise)", the page will navigates to
+     "Participating Institutes" page.
+   + Select Amrita from the institute's list.
+   + Select [[http://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH18+Anytime/info][Population ecology Virtual Lab I]]
+   + Click on Enroll to go through the course. 
+   + Click on View course, If already enrolled.
+   + Click on course.
+   
 *** List of experiments
+
+ Following are the experiments that are selected from this lab.
 
 **** [[https://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH18+Anytime/courseware/0264a641aa644e25ab6273c120027d78/4d891fcd6a4846f0848b4876de268528/][Conserving an Endangered Species]]
 
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+
 ***** Objective:
 
+      -- Not available --
+
 ***** Steps to perform the Experiment:
+
+      -- Not available --
 
 **** [[https://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH18+Anytime/courseware/e777d34625924ad28efdf55d3d1374ec/a472b5bd551f426284b7bf17cdc93afa/][Interspecific Competition and Coexistence]]
 
+- Select the experiment by clicking on the name of the experiment from
+  the Menu tab.
+
 ***** Objective:
 
+      -- Not available --
+
 ***** Steps to perform the Experiment:
+
+      -- Not available --
