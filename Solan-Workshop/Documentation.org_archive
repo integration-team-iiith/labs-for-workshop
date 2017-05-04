@@ -1,0 +1,28 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/sadhana/Documents/labs-for-workshop/Solan-Workshop/Documentation.org
+
+
+* Steps to perform the Experiment: 
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-05-04 Thu 12:30
+  :ARCHIVE_FILE: ~/Documents/labs-for-workshop/Solan-Workshop/Documentation.org
+  :ARCHIVE_OLPATH: Steps/Computer Organization from IIIT H - Computer Science Engineering/List of Experiments:/[[http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CSE11+Anytime/courseware/27f53b9f804642dcbdc7063f9f701151/b225a5c275724278922015249123b777/][Floating Point Numbers Representation]]
+  :ARCHIVE_CATEGORY: Documentation
+  :END:
+
+  + Decimal  to 8 bit Binary Floating point:
+
+  1. Enter the decimal number to be converted.
+  2. Then enter the number of exponent bits in range(1,6)
+  3. Click on submit button to get the results.
+  4. Click Reset to clear and re enter the values. 
+
+  + Decimal  to 8 bit Binary Floating point:
+
+  1. Enter the decimal number to be converted.
+  2. Then table shows all the numbers that can be accurately represented. 
+  3. Click on submit to get the representation. 
+  4. If the number is not accurately re-presentable, it is rounded off.
+
