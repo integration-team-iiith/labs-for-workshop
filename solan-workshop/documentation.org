@@ -10,7 +10,7 @@ which are selected for the workshop at Solan
 * Steps 
 
   1. Open Browser - Firefox
-  2. enter url to open [[https://open-edx.vlabs.ac.in/][Open-Edx]]
+  2. enter url to open [[https://open-edx.vlabs.ac.in][Open-Edx]]
   3. If new user click on Register button, Enter the following
      details:
      + Email
@@ -492,6 +492,7 @@ Following are the labs and the experiments that are selected for Solan workshop.
       5. Simulate Blood leak detector.
       6. Simulate Air bubble detector.
 
+
 ** Population ecology Virtual Lab I from Amrita - Biotechnology and Bio-medical Engineering. 
 
 + Go to Labs menu in the header, select "All Labs(Institute wise)"
@@ -515,11 +516,11 @@ Following are the labs and the experiments that are selected for Solan workshop.
 
 ***** Objective:
 
-      -- Not available --
+       -- Not available --
 
 ***** Steps to perform the Experiment:
 
-      -- Not available --
+       -- Not available --
 
 **** [[https://vlabs.ac.in/courses/course-v1:Amrita-University+BIOTECH18+Anytime/courseware/e777d34625924ad28efdf55d3d1374ec/a472b5bd551f426284b7bf17cdc93afa/][Interspecific Competition and Coexistence]]
 
@@ -528,8 +529,8 @@ Following are the labs and the experiments that are selected for Solan workshop.
 
 ***** Objective:
 
-      -- Not available --
+       -- Not available --
 
 ***** Steps to perform the Experiment:
 
-      -- Not available --
+       -- Not available --
